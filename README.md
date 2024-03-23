@@ -1,2 +1,2 @@
 # apna-demo
-author-Puneet Kumar
+Author-Puneet Kumar
